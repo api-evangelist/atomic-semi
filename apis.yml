@@ -13,6 +13,17 @@ description: 'Atomic Semi is a semiconductor company founded in 2023 by Sam Zelo
 url: https://raw.githubusercontent.com/api-evangelist/atomic-semi/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 specificationVersion: '0.23'
 created: '2026-08-06'
 modified: '2026-08-06'
